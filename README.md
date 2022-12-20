@@ -34,7 +34,7 @@
   </tr>
   <tr align="center">
     <td>Membuat Folder</td>
-    <td></td>
+    <td>❌</td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -43,7 +43,7 @@
   </tr>
   <tr align="center">
     <td>Manipulasi Hak Akses Folder</td>
-    <td></td>
+    <td>❌</td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -52,7 +52,7 @@
   </tr>
   <tr align="center">
   	<td>Mengakses URL</td>
-    <td></td>
+    <td>❌</td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -61,7 +61,7 @@
   </tr>
   <tr align="center">
   	<td>Konversi Satuan</td>
-    <td></td>
+    <td>❌</td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -70,7 +70,7 @@
   </tr>
   <tr align="center">
   	<td>Menghitung IPK Mahasiswa</td>
-    <td></td>
+    <td>❌</td>
     <td>✅</td>
     <td></td>
     <td></td>
